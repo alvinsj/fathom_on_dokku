@@ -1,1 +1,1 @@
-from usefathom/fathom:latest
+from usefathom/fathom:version-1.2.1
