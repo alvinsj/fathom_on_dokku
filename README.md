@@ -58,7 +58,7 @@ dokku config:set FATHOM_SECRET=$(echo `openssl rand -base64 45` | tr -d \=+ | cu
 dokku config:set FATHOM_SERVER_ADDR=:8080
 ```
 
-You can find the password in `DATABASE_URL`. e.g. postgres://postgres:<password>@dokku-postgres-fathom:5432/fathom
+You can find the password in `DATABASE_URL`. e.g. `postgres://postgres:<password>@dokku-postgres-fathom:5432/fathom`
 
 ### Deploy
 
