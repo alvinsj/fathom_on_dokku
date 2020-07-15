@@ -107,7 +107,7 @@ Create a user
 
 ### Done
 
-Your fathom instance should be avaiable on https://fathom.<your domain name>
+Your fathom instance should be avaiable on `https://fathom.<your domain name>`
 
 ## Reference:
 
